@@ -1,9 +1,5 @@
 
 
-Here are the steps to create an account on Google Cloud Platform (GCP). You can copy and paste these into a text file:
-
----
-
 Steps to Create an Account on Google Cloud Platform
 
 1. Visit the Google Cloud Website
